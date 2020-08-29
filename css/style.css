@@ -482,6 +482,7 @@ margin: 20px 24px 4px;
 }
 
 .portfolio-project-link {
+display: block;
 text-decoration: none;
 }
 
